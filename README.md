@@ -1,4 +1,4 @@
-# Magic Overlay
+# [Magic Overlay](https://www.technicpack.net/modpack/magic-overlays.1191019)
 
 ```
   __  __             _         ____                 _             
